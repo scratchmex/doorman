@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "tailwindcss": "^1.9.6"
+  },
+  "name": "doorman",
+  "version": "0.0.0",
+  "main": "index.js",
+  "author": "Ivan Gonzalez <scratchmex@gmail.com>",
+  "license": "MIT"
+}
