@@ -13,6 +13,11 @@ factory-boy = "*"
 
 [packages]
 django = "*"
+phonenumberslite = "*"
+django-phonenumber-field = "*"
 
 [requires]
 python_version = "3.8"
+
+[pipenv]
+allow_prereleases = true

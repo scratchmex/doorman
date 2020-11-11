@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "7d5b530f425d012cf007276de0ce74c8578e8016126fd89eaeec60a9f5ec1533"
+            "sha256": "ad87bedc854a33506be83515ee54229cccee7b454b983275ee0637fa5d290010"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -31,6 +31,22 @@
             ],
             "index": "pypi",
             "version": "==3.1.3"
+        },
+        "django-phonenumber-field": {
+            "hashes": [
+                "sha256:1eb7af3a108744665f7c3939d38aa15b3728c57d13d45d656b0a2aa11e8cdc3c",
+                "sha256:adb46905cc4ecb19d8494424e1c4352f24946bb472340a2a17257d44bf8228e6"
+            ],
+            "index": "pypi",
+            "version": "==5.0.0"
+        },
+        "phonenumberslite": {
+            "hashes": [
+                "sha256:19978ceb7c0273219a1bfdfa653636ea4d1161bad7dd369f93e69474138313cb",
+                "sha256:226c5c81712370e17f3986cf2678ee7b9d9301409ba1103a295b68b67a53907f"
+            ],
+            "index": "pypi",
+            "version": "==8.12.12"
         },
         "pytz": {
             "hashes": [
@@ -213,6 +229,21 @@
             ],
             "index": "pypi",
             "version": "==2.6.0"
+        },
+        "pylint-django": {
+            "hashes": [
+                "sha256:770e0c55fb054c6378e1e8bb3fe22c7032a2c38ba1d1f454206ee9c6591822d7",
+                "sha256:b8dcb6006ae9fa911810aba3bec047b9410b7d528f89d5aca2506b03c9235a49"
+            ],
+            "index": "pypi",
+            "version": "==2.3.0"
+        },
+        "pylint-plugin-utils": {
+            "hashes": [
+                "sha256:2f30510e1c46edf268d3a195b2849bd98a1b9433229bb2ba63b8d776e1fc4d0a",
+                "sha256:57625dcca20140f43731311cd8fd879318bf45a8b0fd17020717a8781714a25a"
+            ],
+            "version": "==0.6"
         },
         "pyparsing": {
             "hashes": [
