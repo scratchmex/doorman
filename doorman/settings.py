@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     # own
     "doorman.core",
     "doorman.users",
+    "doorman.checkin",
 ]
 
 MIDDLEWARE = [
