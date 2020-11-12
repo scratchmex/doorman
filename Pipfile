@@ -10,6 +10,7 @@ pylint-django = "*"
 pytest = "*"
 pytest-django = "*"
 factory-boy = "*"
+black = "==19.10b0"
 
 [packages]
 django = "*"
