@@ -8,6 +8,7 @@ pre-commit = "*"
 pylint = "*"
 pytest = "*"
 pytest-django = "*"
+factory-boy = "*"
 
 [packages]
 django = "*"
